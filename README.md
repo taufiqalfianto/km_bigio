@@ -1,7 +1,7 @@
 # Kampus Merdeka Bigio
 
-## introduction
-
+## Introduction
+  This project is a follow-up assignment from the Independent Campus Internship Program Stage as a Mobile Developer position
 ## Table of Contents
   - Intrduction
   - Features
